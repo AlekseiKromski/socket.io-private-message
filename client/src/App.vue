@@ -39,7 +39,7 @@ export default {
       isError: false,
       socket: null,
       socketProps: {
-        ip: 'localhost',
+        ip: '192.168.1.200',
         port: 3000,
         autoConnect: false,
       },
